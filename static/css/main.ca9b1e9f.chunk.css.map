@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/beckqin/workspace/qimeng-react/src/app.css"],"names":[],"mappings":"AAAA,KACI,0DAAuD,AAAvD,kDAAuD,CAC1D","file":"main.ca9b1e9f.chunk.css","sourcesContent":["body{\n    background: linear-gradient(to left, #00a353, #0db2df);\n}\n"]}
